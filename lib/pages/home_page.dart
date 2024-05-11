@@ -105,6 +105,9 @@ class _HomePageState extends State<HomePage> {
       body: SingleChildScrollView(
         child: Column(
           children: [
+            SizedBox(
+              height: 30,
+            ),
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: SearchBar(
@@ -207,7 +210,7 @@ class _HomePageState extends State<HomePage> {
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Container(
-                      padding: EdgeInsets.only(top: 32.0, bottom: 32.0),
+                      padding: EdgeInsets.only(top: 20.0, bottom: 20.0),
                       decoration: BoxDecoration(
                           color: Colors.black,
                           borderRadius: BorderRadius.circular(12)),
