@@ -172,12 +172,13 @@ class _HomePageState extends State<HomePage> {
                         ? '${(weatherModel.main!.temp! - 273.15).toStringAsFixed(0)}°'
                         : "Unknown",
                     style: GoogleFonts.dmSans(
-                      fontSize: 192,
+                      fontSize: 150,
                       fontWeight: FontWeight.w400,
                     ),
                   ),
                   Padding(
-                    padding: const EdgeInsets.only(left: 24.0, right: 24.0),
+                    padding: const EdgeInsets.only(
+                        left: 24.0, top: 24.0, right: 24.0),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
@@ -208,7 +209,8 @@ class _HomePageState extends State<HomePage> {
                     height: 10,
                   ),
                   Padding(
-                    padding: const EdgeInsets.all(16.0),
+                    padding: const EdgeInsets.only(
+                        left: 16.0, top: 42.0, right: 16.0, bottom: 42.0),
                     child: Container(
                       padding: EdgeInsets.only(top: 20.0, bottom: 20.0),
                       decoration: BoxDecoration(
