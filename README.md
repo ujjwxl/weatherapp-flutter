@@ -19,20 +19,14 @@ The Flutter Weather App is a cross-platform weather application built using Flut
 
 ## Screenshots
 
-Here are some screenshots of the Flutter Weather App:
+Here are some screenshots of the app:
 
-<img src="https://github.com/user-attachments/assets/85851371-59d8-4ec5-ac1b-cf191179b141" alt="Screenshot 1" width="300"/> </br>
-*Search for a city*
-
-<img src="https://github.com/user-attachments/assets/df16541c-25c2-4e06-a0c2-a27cc3815ed3" alt="Screenshot 1" width="300"/> </br>
-*Rainy Weather*
-
-<img src="https://github.com/user-attachments/assets/b10bbc8c-dd90-492a-ba99-eb7e0f56317f" alt="Screenshot 1" width="300"/> </br>
-*Clear Weather*
-
-<img src="https://github.com/user-attachments/assets/11870ff9-8aca-433b-961c-49a374a5ec31" alt="Screenshot 1" width="300"/> </br>
-*Hazy Weather*
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85851371-59d8-4ec5-ac1b-cf191179b141" alt="Home Screen" width="200" height="420"/>
+  <img src="https://github.com/user-attachments/assets/df16541c-25c2-4e06-a0c2-a27cc3815ed3" alt="Live Location Sharing" width="200" height="420"/>
+  <img src="https://github.com/user-attachments/assets/b10bbc8c-dd90-492a-ba99-eb7e0f56317f" alt="SOS Alert" width="200" height="420"/>
+  <img src="https://github.com/user-attachments/assets/11870ff9-8aca-433b-961c-49a374a5ec31" alt="Group Members" width="200" height="420"/>
+</p>
 
 ## Usage
 
